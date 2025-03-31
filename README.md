@@ -8,7 +8,7 @@ Sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript, e uso de 
 
 💬 Disponível para discussões sobre design de interfaces, boas práticas de front-end, e ferramentas como Canva e Figma.
 
-😄 Pronomes: Ele/Dele.
+😄 Pronomes: Ela/Dela.
 
 ⚡ Curiosidade: Apaixonado por tecnologia, sempre em busca de novas ferramentas e técnicas que melhoram a experiência do usuário.
 
